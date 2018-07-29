@@ -80,7 +80,7 @@ Selanjutnya bisa kita cek dengan perintah :
 
 yang hasilnya adalah :
 
-![3image3](https://github.com/user/repo/blob/master-branch/pict/fetch/3image3.jpg)
+![3image3](https://github.com/slamet789/RKT-Container/blob/3-fetch-n-run/pict/fetch/3image3.jpg)
 
 Dari gambar diatas dapat kita lihat bahwa ada 2 image rkt yaitu yang pertama kita *fetch* dari meta discovery dan yang kita *fetch* dari Docker Registry.
 
